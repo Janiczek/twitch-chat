@@ -1,0 +1,7 @@
+{
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twitch-channel": "^0.4.1"
+  }
+}
