@@ -2,6 +2,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.17.1",
-    "twitch-channel": "^0.4.1"
+    "twitch-channel": "^0.4.1",
+    "window-size": "^1.1.1"
   }
 }
